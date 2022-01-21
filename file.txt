@@ -3,3 +3,6 @@ new line2
 new line3
 test
 test2
+hi
+hi
+hi
